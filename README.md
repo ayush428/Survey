@@ -1,7 +1,7 @@
-Survey Website
+#Survey Website#
 This is a basic survey form website created as part of the FreeCodeCamp Responsive Web Design challenges. The project demonstrates the use of pure HTML to structure a user-friendly survey form.
 
-Features
+#Features#
 A responsive survey form designed with semantic HTML elements.
 Includes a variety of input types, such as text, email, number, dropdown, radio buttons, and checkboxes.
 Clean and accessible design, ensuring usability for all users.
